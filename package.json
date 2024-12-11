@@ -1,26 +1,25 @@
 {
-  "name": "@shopware-ag/jest-preset-sw6-admin",
+  "name": "@cicada-ag/jest-preset-sw6-admin",
   "version": "4.3.4",
-  "description": "Jest Test preset for Shopware 6 administration unit tests",
+  "description": "Jest Test preset for Cicada 6 administration unit tests",
   "main": "jest-preset.js",
   "keywords": [
     "jest",
     "unit",
     "test",
     "unit-test",
-    "shopware",
     "sw6"
   ],
   "author": "klarstil",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shopware/jest-preset-sw6-admin.git"
+    "url": "git+https://github.com/getcicada/jest-preset-sw6-admin.git"
   },
   "bugs": {
-    "url": "https://github.com/shopware/jest-preset-sw6-admin/issues"
+    "url": "https://github.com/getcicada/jest-preset-sw6-admin/issues"
   },
-  "homepage": "https://github.com/shopware/jest-preset-sw6-admin#readme",
+  "homepage": "https://github.com/getcicada/jest-preset-sw6-admin#readme",
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=8.0.0"
